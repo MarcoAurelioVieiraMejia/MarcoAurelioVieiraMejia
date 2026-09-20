@@ -78,9 +78,11 @@ Este perfil recoge mis **contribuciones de código abierto** a la ingeniería de
 
 **¿Colaboramos?**
 
-[![Correo](https://img.shields.io/badge/Correo-contacto@marcoaureliovieiramejia.com-D14836?style=flat-square&logo=maildotru&logoColor=white)](mailto:contacto@marcoaureliovieiramejia.com)
+[![Correo](https://img.shields.io/badge/Correo-contacto@marcoaureliovieiramejia.com.co-D14836?style=flat-square&logo=maildotru&logoColor=white)](mailto:contacto@marcoaureliovieiramejia.com.co)
 [![Sitio web](https://img.shields.io/badge/Web-marcoaureliovieiramejia.com.co-0A66C2?style=flat-square&logo=google-chrome&logoColor=white)](https://marcoaureliovieiramejia.com.co/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marco_Aurelio_Vieira_Mejía-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-aurelio-vieira-mejia-b7a332373)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Perfil-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=ooXlva0AAAAJ&hl=es)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0003--5541--0891-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-5541-0891)
 [![Ingeomega](https://img.shields.io/badge/Ingeomega-ingeomega.com.co-1F6F43?style=flat-square&logo=buildkite&logoColor=white)](https://ingeomega.com.co)
 
 </div>
